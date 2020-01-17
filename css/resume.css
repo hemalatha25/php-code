@@ -1,0 +1,96 @@
+.tut-wrapper {
+    width: 980px;
+    height: 1050px;
+}
+body {
+    border-radius: 40px;
+    padding: 150px;
+    width: 1050px;
+    display: inline-block;  
+}
+.container-fluid {
+    background-color: lightgray;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.first-column {
+    display: block;
+    background-color: black;
+    color: white;
+    height: 905px;
+    padding:10px;
+}
+
+.contact {
+    border-bottom: 0.1px ridge lightgray; 
+}
+.skill {
+    border-bottom: 0.1px ridge white; 
+}
+.refer {
+    border-bottom: 0.1px ridge white;   
+}
+.one {
+    border-bottom: 0.1px ridge white; 
+}
+ul {
+    height: 100px;
+    width: 256px;
+}
+.ref1 {
+    border-left: 0.1px ridge white;
+    padding: 8px;
+}
+.ref2 {
+    border-left: 0.1px ridge white;
+    padding: 8px;
+}
+.second-column {
+    background-color: white;
+    height: 905px;
+    padding: 50px;
+}
+.name {
+    
+    font-size: 24px;
+    font-weight: 800;
+   
+}
+.profile {
+    border-bottom: 1px solid black;
+}
+
+.pro { 
+    border-left: 0.1px ridge black;
+}
+.workexp {
+    border-bottom: 1px solid black;
+}
+.wexp {
+    height: 210px;
+}
+.education {
+    border-bottom: 1px solid black;
+}
+.age {
+    font-size: 15px;
+    border-left: 1px ridge black;
+    
+}
+b {
+    font-size: 18px; 
+    padding-left: 10px; 
+}
+dd {
+    font-size: 1rem;
+}
+.edu {
+    font-size: 14px;
+    font-weight: 25px;
+}
+.col {
+   padding: 20px;
+   border-left: 1px ridge black;
+}
